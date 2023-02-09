@@ -1,0 +1,122 @@
+[
+  {
+    "category": "salud",
+    "date": "2023-02-09T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c3BvcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet unde omnis",
+    "type": "article"
+  },
+  {
+    "category": "turismo deportivo",
+    "date": "2023-02-08T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1627483297929-37f416fec7cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8bnV0cml0aW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "article"
+  },
+  {
+    "category": "motivación",
+    "date": "2023-02-07T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "video"
+  },
+  {
+    "category": "motivación",
+    "date": "2023-02-06T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "podcast"
+  },
+  {
+    "category": "salud",
+    "date": "2023-02-04T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1541252260730-0412e8e2108e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "article"
+  },
+  {
+    "category": "noticias",
+    "date": "2023-02-01T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1510925758641-869d353cecc7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "video"
+  },
+  {
+    "category": "motivación",
+    "date": "2023-01-28T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1571750007475-09cc42b58613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG51dHJpdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "La forma correcta de ejercitarse",
+    "type": "video"
+  },
+  {
+    "category": "noticias",
+    "date": "2023-01-25T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1507034589631-9433cc6bc453?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Electrolitos como una forma de mantenerse hidratado",
+    "type": "article"
+  },
+  {
+    "category": "tendencias",
+    "date": "2023-01-25T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1502014822147-1aedfb0676e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "¿ejercitarse por las mañanas te hace más eficiente?",
+    "type": "article"
+  },
+  {
+    "category": "motivación",
+    "date": "2023-01-25T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1485527172732-c00ba1bf8929?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fG51dHJpdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Maratón de Bicicleta en CDMX",
+    "type": "podcast"
+  },
+  {
+    "category": "noticias",
+    "date": "2023-01-25T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1580238053495-b9720401fd45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "article"
+  },
+  {
+    "category": "turismo deportivo",
+    "date": "2023-01-22T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1560089000-7433a4ebbd64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "article"
+  },
+  {
+    "category": "motivación",
+    "date": "2023-01-21T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG51dHJpdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "podcast"
+  },
+  {
+    "category": "tendencias",
+    "date": "2023-01-20T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "article"
+  },
+  {
+    "category": "salud",
+    "date": "2023-01-18T15:11:43.070Z",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+    "image": "https://images.unsplash.com/photo-1518214598173-1666bc921d66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Lorem ipsum dolor sit amet",
+    "type": "video"
+  }
+]
